@@ -1,0 +1,31 @@
+{
+    
+    "texts" : [
+        [
+            {"content" : "안녕하세요!", "delay" : 1000},
+            {"content" : "반갑습니다!", "delay" : 1000},
+            {"content" : "어서오세요!", "delay" : 1000}
+        ],
+        [
+            {"content" : "Hello!", "delay" : 1000},
+            {"content" : "Nice to meet you!", "delay" : 1000},
+            {"content" : "Welcome!", "delay" : 1000}
+        ],
+        [
+            {"content" : "こんにちは！", "delay" : 1000},
+            {"content" : "はじめまして！", "delay" : 1000},
+            {"content" : "ようこそ！", "delay" : 1000}
+        ],
+        [
+            {"content" : "你好！", "delay" : 1000},
+            {"content" : "很高兴见到你！", "delay" : 1000},
+            {"content" : "欢迎！", "delay" : 1000}
+        ],
+        [
+            {"content" : "¡Hola!", "delay" : 1000},
+            {"content" : "¡Encantado de conocerte!", "delay" : 1000},
+            {"content" : "¡Bienvenido!", "delay" : 1000}
+        ]
+    ]
+
+}
